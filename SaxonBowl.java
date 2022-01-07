@@ -1,4 +1,4 @@
-public class SaxonBowlSimulationV1 {
+public class SaxonBowl {
     
     public static double dischargeCoefficient(double deltaP)
     {        
