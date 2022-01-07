@@ -1,4 +1,6 @@
 # IYPT-Code
-Simulated Physics models for the problems assigned to Martin Zhao. 
+Simulated Physics models for the problems assigned to Martin Zhao.
 
-The models are coded with Team Canada for the 2020 IYPT and 2019, 2020 UTS Team. 
+In 2020, I was assigned (among others) to code for 5. Sweet Mirage and 6. Saxon Bowl.
+
+The models are coded with Team Canada for the 2020 IYPT as well as the 2020, 2021 UTS Team. 
